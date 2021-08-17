@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\bin\Debug\netcoreapp3.1\LinecomputationOops.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\bin\Debug\netcoreapp3.1\LinecomputationOops.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\bin\Debug\netcoreapp3.1\LinecomputationOops.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\bin\Debug\netcoreapp3.1\LinecomputationOops.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\bin\Debug\netcoreapp3.1\LinecomputationOops.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\bin\Debug\netcoreapp3.1\LinecomputationOops.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\obj\Debug\netcoreapp3.1\LinecomputationOops.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\obj\Debug\netcoreapp3.1\LinecomputationOops.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\obj\Debug\netcoreapp3.1\LinecomputationOops.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\obj\Debug\netcoreapp3.1\LinecomputationOops.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\obj\Debug\netcoreapp3.1\LinecomputationOops.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\obj\Debug\netcoreapp3.1\LinecomputationOops.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\linecomputationOops\LinecomputationOops\obj\Debug\netcoreapp3.1\LinecomputationOops.genruntimeconfig.cache
